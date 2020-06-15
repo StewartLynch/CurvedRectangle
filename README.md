@@ -44,7 +44,7 @@ CurvedRectangle {
 
 ##### Dual Curve Example
 
-![image-20200614225457030](README.assets/image-20200614225457030.png)
+![image-20200615070629906](README.assets/image-20200615070629906.png)
 
 `````swift
 CurvedRectangle {
