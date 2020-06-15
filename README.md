@@ -2,7 +2,7 @@
 
 A SwiftUIView that creates a rectanle with a curved top, bottom or both.
 
-![CurvedRectangle](README.assets/CurvedRectangle-2200548.gif)
+![CurvedRectangle](README.assets/CurvedRectangle.gif)
 
 
 
