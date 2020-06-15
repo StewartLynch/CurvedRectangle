@@ -2,7 +2,7 @@
 
 A SwiftUIView that creates a rectanle with a curved top, bottom or both.
 
-![CurvedRectangle](/Users/slynch/Dropbox/SwiftUISamples/TopBottomCurvedRectangle/README.assets/CurvedRectangle.gif)
+![CurvedRectangle](README.assets/CurvedRectangle-2200548.gif)
 
 
 
@@ -22,7 +22,7 @@ There are 3 optional parameters
 
 ##### Top Curve Example
 
-![image-20200614224434759](/Users/slynch/Dropbox/SwiftUISamples/TopBottomCurvedRectangle/README.assets/image-20200614224434759.png)
+![image-20200614225352517](README.assets/image-20200614225352517.png)
 
 `````swift
 CurvedRectangle {
@@ -33,7 +33,7 @@ CurvedRectangle {
 
 ##### Bottom Curve Example
 
-![image-20200614224554241](/Users/slynch/Dropbox/SwiftUISamples/TopBottomCurvedRectangle/README.assets/image-20200614224554241.png)
+![image-20200614225418884](README.assets/image-20200614225418884.png)
 
 `````swift
 CurvedRectangle {
@@ -44,7 +44,7 @@ CurvedRectangle {
 
 ##### Dual Curve Example
 
-![image-20200614224628128](/Users/slynch/Dropbox/SwiftUISamples/TopBottomCurvedRectangle/README.assets/image-20200614224628128.png)
+![image-20200614225457030](README.assets/image-20200614225457030.png)
 
 `````swift
 CurvedRectangle {
